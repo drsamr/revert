@@ -1,4 +1,6 @@
 FROM alpine:latest
+drsamr
+read-me
 
 LABEL repository="http://github.com/srt32/revert"
 LABEL homepage="http://github.com/srt32/revert"
